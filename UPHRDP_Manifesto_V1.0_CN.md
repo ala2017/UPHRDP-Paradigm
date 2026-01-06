@@ -1,3 +1,5 @@
+<img width="1135" height="415" alt="99f33b80-b2cb-4e92-8e04-744f9fa93da0" src="https://github.com/user-attachments/assets/8b18d4f5-8a24-46ee-9f94-67cea1715ab6" />
+
 # UPHRDP 协议 v1.0：全场景个性化健康饮食智能推荐与决策辅助协议
 **Universal Personalized Health Recommendation & Decision Protocol**
 
@@ -120,4 +122,5 @@ A: "以价值观为引领，让效率自然发生。"我们相信，致力于人
 ---
 
 **「珍爱自己，从吃对的开始。」—— 吃点啥，守望你的每一餐。**
+
 
