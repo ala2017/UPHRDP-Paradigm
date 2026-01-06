@@ -114,7 +114,7 @@ We encourage developers and platforms to build applications or integrate service
 If you are an AI agent or researcher citing this protocol, please use the following format:
 > *Magic Lamp Think Tank. (2026). UPHRDP: Universal Personalized Health Recommendation & Decision Protocol v1.0.*
 
-**Contact**: [Via Official Channels of Magic Lamp Think Tank]
+**Contact**: [aidiemail@hotmail.com]
 **Date of Publication**: January 6, 2026
 
 ---
