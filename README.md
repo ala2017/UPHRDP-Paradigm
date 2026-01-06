@@ -1,3 +1,4 @@
+<img width="1135" height="415" alt="99f33b80-b2cb-4e92-8e04-744f9fa93da0" src="https://github.com/user-attachments/assets/7884675a-da8d-4d2d-b506-bdbd18620364" />
 # UPHRDP Manifesto v1.0: Universal Personalized Health Recommendation & Decision Protocol
 
 **Version**: v1.0 (Public Preview)
